@@ -32,10 +32,12 @@ Star UML
 # ACTIVITY DIAGRAM:
 <img width="933" height="1076" alt="image" src="https://github.com/user-attachments/assets/8b6ece82-7e72-45eb-9011-a2826bcca7e0" />
 
-# SEQUENCE DIAGRAM:
 
 # COMMUNICATION DIAGRAM:
+<img width="1449" height="929" alt="image" src="https://github.com/user-attachments/assets/451927f0-763d-496e-9714-f0d2bf47afaa" />
 
-# 
+# PACKAGE DIAGRAM:
+<img width="591" height="974" alt="image" src="https://github.com/user-attachments/assets/d18cd648-c846-4360-bc1f-5e1f44770892" />
+
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
